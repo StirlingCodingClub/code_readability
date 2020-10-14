@@ -1,0 +1,88 @@
+---
+title: "Tips for generating clean and readable code"
+author: "Brad Duthie"
+date: "14/20/2020"
+output:
+  beamer_presentation: default
+  ioslides_presentation: default
+  slidy_presentation: default
+---
+
+# Why is writing readable code important?
+
+*"If the code runs successfully, who cares how it looks?"* \pause
+\vspace{2mm}\hrule
+
+![](venn_white.png){width=85%}
+
+\vspace{4mm}
+\hrule
+
+"I won't edit your code, so I don't care what it looks like." (true)  \pause
+
+"It's frustrating enough just getting the code to work, so I shouldn't feel bad about writing code that doesn't look good." (**very true**)
+
+# Why is writing readable code important?
+
+*"If the code runs successfully, who cares how it looks?"*
+\vspace{2mm}\hrule
+
+![](venn1.png){width=85%}
+
+\vspace{4mm}
+\hrule
+
+"I won't see your code, so I don't care what it looks like." (true) 
+
+"It's frustrating enough just getting the code to work, so I shouldn't feel bad about writing code that doesn't look good." (**very true**)
+
+
+# Why is writing readable code important?
+
+*"If the code runs successfully, who cares how it looks?"*
+\vspace{2mm}\hrule
+
+![](venn2.png){width=85%}
+
+\vspace{4mm}
+\hrule
+
+"I won't see your code, so I don't care what it looks like." (true) 
+
+"It's frustrating enough just getting the code to work, so I shouldn't feel bad about writing code that doesn't look good." (**very true**)
+
+# Why is writing readable code important?
+
+*"If the code runs successfully, who cares how it looks?"*
+\vspace{2mm}\hrule
+
+![](venn3.png){width=85%}
+
+\vspace{4mm}
+\hrule
+
+"I won't see your code, so I don't care what it looks like." (true) 
+
+"It's frustrating enough just getting the code to work, so I shouldn't feel bad about writing code that doesn't look good." (**very true**)
+
+# Why is writing readable code important?
+
+*"If the code runs successfully, who cares how it looks?"*
+\vspace{2mm}\hrule
+
+![](venn4.png){width=85%}
+
+\vspace{4mm}
+\hrule
+
+"I won't see your code, so I don't care what it looks like." (true) 
+
+"It's frustrating enough just getting the code to work, so I shouldn't feel bad about writing code that doesn't look good." (**very true**)
+
+
+
+
+
+
+
+
